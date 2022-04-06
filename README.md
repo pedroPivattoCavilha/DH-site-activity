@@ -1,7 +1,7 @@
 # DH-site-activity
 Objective: Create a site using HTML and CSS, based on the model proposed on Figma.
 
-[Live URL](https://pedropivattocavilha.github.io/order-summary-component/#)
+[Live URL](https://pedropivattocavilha.github.io/DH-site-activity/)
 
 ### Built with
 
