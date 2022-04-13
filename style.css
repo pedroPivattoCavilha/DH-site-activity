@@ -80,6 +80,7 @@ main {
 
 .dot {
     margin-left: 12px;
+    margin-right: 12px;
     height: 39px;
     width: 39px;
     background: rgba(141, 141, 141, 0.62);;
